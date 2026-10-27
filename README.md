@@ -49,7 +49,7 @@ cd frontend
 npm install
 npm run dev
 
-Frontend URL : http://localhost:5000
+Frontend URL : http://localhost:5173
 
 Note
 
