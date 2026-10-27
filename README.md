@@ -49,7 +49,7 @@ cd frontend
 npm install
 npm run dev
 
-Open the local URL displayed in the terminal.
+Frontend URL : http://localhost:5000
 
 Note
 
